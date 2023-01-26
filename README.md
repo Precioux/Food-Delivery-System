@@ -6,6 +6,6 @@ In this project, we designed a food delivery system based on software engineerin
 
 - Impelemented by :
   - [Samin Mahdipour](https://github.com/Precioux) <br />
-  - Yeganeh Arabi Moghadam
+  - [Yeganeh Arabi Moghadam](https://github.com/ygarabimoghadam) <br />
   - [Negar Soltan Mohammadi](https://github.com/negrsm) <br />
 - Amirkabir University of Technology - Fall 2022
